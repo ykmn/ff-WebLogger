@@ -18,7 +18,7 @@ set url=https://pub0202.101.ru:8000/stream/air/aac/64/100
 set station="Autoradio Moscow"
 set filetype=aac
 set storage="D:\STORAGE"
-start "%station% Logger Watchdog" ff-Logger.bat %url% %station% %storage% %filetype%
+start "%station% Logger Watchdog" ff-WebLogger.bat %url% %station% %storage% %filetype%
 ```
 
 * `url=` ссылка на аудиопоток

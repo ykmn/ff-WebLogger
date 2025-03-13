@@ -2,7 +2,7 @@
 cd /d "%~dp0"
 
 echo [93m*   ff-Run.bat[0m v1.00 2024-09-05 Roman Ermakov r.ermakov@emg.fm
-echo Script for batch running ff-Logger clients.
+echo Script for batch running ff-WebLogger clients.
 echo.
 :: ******************************************************
 
@@ -19,7 +19,6 @@ set station="Eldoradio"
 set filetype=mp3
 set storage="D:\STORAGE"
 call:callRecorder
-
 
 set url=https://pub0202.101.ru:8000/stream/air/aac/64/100
 set station="Autoradio Moscow"
