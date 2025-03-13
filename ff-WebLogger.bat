@@ -12,6 +12,7 @@ echo.
 echo [93mExample:[0m
 echo ff-Logger https://webradio.com:8000/stream "My Radio" "D:\STORAGE" m4a
 echo.
+echo Simultaneous recording of several streams implies the use of ff-Run.bat script.
 goto:eof
 
 :logger
