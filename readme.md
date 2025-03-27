@@ -1,4 +1,9 @@
 # ff-WebLogger
+![Windows Batch](https://img.shields.io/badge/Windows%20Batch-%23909090.svg?style=for-the-badge&logo=Windows&logoColor=white)
+[![Licence](https://img.shields.io/github/license/ykmn/ff-Logger?style=for-the-badge)](./LICENSE)
+![Microsoft Windows](https://img.shields.io/badge/Microsoft-Windows-%FF5F91FF.svg?style=for-the-badge&logo=Microsoft%20Windows&logoColor=white)
+
+> 28.07.2023 Roman Ermakov <r.ermakov@emg.fm>
 
 * ff-WebLoggger.bat: Логгер веб-аудиопотока с функцией watchdog.
 
