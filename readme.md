@@ -3,7 +3,7 @@
 [![Licence](https://img.shields.io/github/license/ykmn/ff-Logger?style=for-the-badge)](./LICENSE)
 ![Microsoft Windows](https://img.shields.io/badge/Microsoft-Windows-%FF5F91FF.svg?style=for-the-badge&logo=Microsoft%20Windows&logoColor=white)
 
-> 28.07.2023 Roman Ermakov <r.ermakov@emg.fm>
+> 2024-09-05 Roman Ermakov <r.ermakov@emg.fm>
 
 * ff-WebLoggger.bat: Логгер веб-аудиопотока с функцией watchdog.
 
